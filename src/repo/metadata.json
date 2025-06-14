@@ -1,0 +1,80 @@
+{
+  "datasets": {
+    "69160e53": {
+      "name": "Data (1) (1)",
+      "description": "Uploaded real estate dataset",
+      "filename": "20250605_204752_Data (1) (1)_69160e53.csv",
+      "filepath": "repo\\datasets\\20250605_204752_Data (1) (1)_69160e53.csv",
+      "timestamp": "2025-06-05T20:47:52.984156",
+      "rows": 2849,
+      "columns": 21,
+      "size_mb": 2.9958906173706055
+    },
+    "32b23e3e": {
+      "name": "processed_dataset",
+      "description": "Preprocessed real estate dataset",
+      "filename": "20250605_220017_processed_dataset_32b23e3e.csv",
+      "filepath": "repo\\datasets\\20250605_220017_processed_dataset_32b23e3e.csv",
+      "timestamp": "2025-06-05T22:00:17.777713",
+      "rows": 2849,
+      "columns": 21,
+      "size_mb": 2.9958906173706055
+    },
+    "168fdfdd": {
+      "name": "processed_dataset",
+      "description": "Preprocessed real estate dataset",
+      "filename": "20250605_220315_processed_dataset_168fdfdd.csv",
+      "filepath": "repo\\datasets\\20250605_220315_processed_dataset_168fdfdd.csv",
+      "timestamp": "2025-06-05T22:03:15.220902",
+      "rows": 2849,
+      "columns": 21,
+      "size_mb": 2.9958906173706055
+    },
+    "1a0ac142": {
+      "name": "processed_real_estate_data",
+      "description": "Processed real estate dataset with cleaned and extracted features",
+      "filename": "20250605_220437_processed_real_estate_data_1a0ac142.csv",
+      "filepath": "repo\\datasets\\20250605_220437_processed_real_estate_data_1a0ac142.csv",
+      "timestamp": "2025-06-05T22:04:37.495702",
+      "rows": 2849,
+      "columns": 27,
+      "size_mb": 3.0677967071533203
+    },
+    "1a028514": {
+      "name": "processed_real_estate_data",
+      "description": "Processed real estate dataset with cleaned and extracted features",
+      "filename": "20250605_220454_processed_real_estate_data_1a028514.csv",
+      "filepath": "repo\\datasets\\20250605_220454_processed_real_estate_data_1a028514.csv",
+      "timestamp": "2025-06-05T22:04:54.597154",
+      "rows": 2849,
+      "columns": 27,
+      "size_mb": 3.0677967071533203
+    },
+    "acbea36f": {
+      "name": "processed_real_estate_data",
+      "description": "Processed real estate dataset with cleaned and extracted features",
+      "filename": "20250605_220455_processed_real_estate_data_acbea36f.csv",
+      "filepath": "repo\\datasets\\20250605_220455_processed_real_estate_data_acbea36f.csv",
+      "timestamp": "2025-06-05T22:04:55.403986",
+      "rows": 2849,
+      "columns": 27,
+      "size_mb": 3.0677967071533203
+    },
+    "7d195cff": {
+      "name": "processed_real_estate_data",
+      "description": "Processed real estate dataset with cleaned and extracted features",
+      "filename": "20250605_220456_processed_real_estate_data_7d195cff.csv",
+      "filepath": "repo\\datasets\\20250605_220456_processed_real_estate_data_7d195cff.csv",
+      "timestamp": "2025-06-05T22:04:56.706057",
+      "rows": 2849,
+      "columns": 27,
+      "size_mb": 3.0677967071533203
+    }
+  },
+  "processed": {},
+  "models": {},
+  "reports": {},
+  "created_at": "2025-06-05T20:47:52.616048",
+  "version": "1.0",
+  "last_updated": "2025-06-05T22:04:56.768422"
+}
